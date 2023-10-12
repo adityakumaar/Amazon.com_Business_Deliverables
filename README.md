@@ -1,4 +1,4 @@
-# Amazon.com_Business_Deliverables
+# Amazon.com Business Deliverables
 
 This project is created to understand the functional aspects of Amazon.com and document the system.
 
